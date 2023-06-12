@@ -6,19 +6,19 @@ During this activity, students will learn how to manage a Stopwatch object and a
 
 Start Menu:
 
-![alt text](https://github.com/JLAGCU/CST-250-Activity-5/blob/main/Images/Windows%20Form1.png?raw=true)
+![alt text](https://raw.githubusercontent.com/JLAGCU/CST-250-Activity-5/main/Images/Windows%20Form%201.png)
 
 
 Game Started:
 
-![alt text](https://github.com/JLAGCU/CST-250-Activity-5/blob/main/Images/Windows%20Form2.png?raw=true)
+![alt text](https://raw.githubusercontent.com/JLAGCU/CST-250-Activity-5/main/Images/Windows%20Form%202.png)
 
 
 Game over:
 
-![alt text](https://github.com/JLAGCU/CST-250-Activity-5/blob/main/Images/Windows%20Form3.png?raw=true)
+![alt text](https://raw.githubusercontent.com/JLAGCU/CST-250-Activity-5/main/Images/Windows%20Form%203.png)
 
 
 Multiple Decoys Active:
 
-![alt text](https://github.com/JLAGCU/CST-250-Activity-5/blob/main/Images/Windows%20Form4.png?raw=true)
+![alt text](https://raw.githubusercontent.com/JLAGCU/CST-250-Activity-5/main/Images/Windows%20Form%204.png)
